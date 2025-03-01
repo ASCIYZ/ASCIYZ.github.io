@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-01T22:26:55+09:00</updated><id>/feed.xml</id><title type="html">SmileKids Photo</title><subtitle>Yet another Jekyll theme. It is designed for business purpose and ported by  Melvin Ch&apos;ng.
-</subtitle><entry><title type="html">国风</title><link href="/traditional.html" rel="alternate" type="text/html" title="国风" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>/traditional</id><content type="html" xml:base="/traditional.html"><![CDATA[<body>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-01T23:27:17+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SmileKids Photo</title><subtitle>Yet another Jekyll theme. It is designed for business purpose and ported by  Melvin Ch&apos;ng.
+</subtitle><entry><title type="html">国风</title><link href="http://localhost:4000/traditional.html" rel="alternate" type="text/html" title="国风" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>http://localhost:4000/traditional</id><content type="html" xml:base="http://localhost:4000/traditional.html"><![CDATA[<body>
     <div class="container">
         <div class="row">
             <img src="assets/img/picture/IMG_6499.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
@@ -17,7 +17,7 @@
     </div>
 </body>
 
-</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">开学/毕业纪念</title><link href="/school.html" rel="alternate" type="text/html" title="开学/毕业纪念" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>/school</id><content type="html" xml:base="/school.html"><![CDATA[<body>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">开学/毕业纪念</title><link href="http://localhost:4000/school.html" rel="alternate" type="text/html" title="开学/毕业纪念" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>http://localhost:4000/school</id><content type="html" xml:base="http://localhost:4000/school.html"><![CDATA[<body>
     <div class="container">
         <div class="row">
             <img src="assets/img/picture/IMG_4161.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
@@ -35,7 +35,7 @@
     </div>
 </body>
 
-</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">满月/百天/生日纪念</title><link href="/birthday.html" rel="alternate" type="text/html" title="满月/百天/生日纪念" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>/%20birthday</id><content type="html" xml:base="/birthday.html"><![CDATA[<body>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">满月/百天/生日纪念</title><link href="http://localhost:4000/birthday.html" rel="alternate" type="text/html" title="满月/百天/生日纪念" /><published>2025-02-28T00:00:00+09:00</published><updated>2025-02-28T00:00:00+09:00</updated><id>http://localhost:4000/%20birthday</id><content type="html" xml:base="http://localhost:4000/birthday.html"><![CDATA[<body>
     <div class="container">
         <div class="row">
             <img src="assets/img/picture/2A8A0343.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
@@ -53,12 +53,12 @@
     </div>
 </body>
 
-</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">七五三</title><link href="/753.html" rel="alternate" type="text/html" title="七五三" /><published>2025-02-27T00:00:00+09:00</published><updated>2025-02-27T00:00:00+09:00</updated><id>/753</id><content type="html" xml:base="/753.html"><![CDATA[<body>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">七五三</title><link href="http://localhost:4000/753.html" rel="alternate" type="text/html" title="七五三" /><published>2025-02-27T00:00:00+09:00</published><updated>2025-02-27T00:00:00+09:00</updated><id>http://localhost:4000/753</id><content type="html" xml:base="http://localhost:4000/753.html"><![CDATA[<body>
     <div class="container">
         <div class="row">
-            <img src="assets/img/picture/31.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
+           <!--  <img src="assets/img/picture/31.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
             <hr>
-
+ -->
             <img src="assets/img/picture/IMG_4133.jpg" class="blog-post" alt="Feature-img" align="right" width="100%">
             <hr>
 
@@ -71,7 +71,7 @@
     </div>
 </body>
 
-</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">拍照流程介绍</title><link href="/workflow.html" rel="alternate" type="text/html" title="拍照流程介绍" /><published>2025-02-25T00:00:00+09:00</published><updated>2025-02-25T00:00:00+09:00</updated><id>/workflow</id><content type="html" xml:base="/workflow.html"><![CDATA[<body>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[专属摄影服务全流程指南:预约建档 → 需求沟通 → 现场拍摄 → 精选成片 → 专业精修 → 成品交付]]></summary></entry><entry><title type="html">拍照流程介绍</title><link href="http://localhost:4000/workflow.html" rel="alternate" type="text/html" title="拍照流程介绍" /><published>2025-02-25T00:00:00+09:00</published><updated>2025-02-25T00:00:00+09:00</updated><id>http://localhost:4000/workflow</id><content type="html" xml:base="http://localhost:4000/workflow.html"><![CDATA[<body>
     <div class="container">
         <div class="row">
             <header>
